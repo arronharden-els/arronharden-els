@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a software architect working for [Elsevier](https://www.elsevier.com/). We use domain driven development, and I am responsible for the architecture of the _person_ and _organization_ domains within the research organization. Find me on:
+
+[![Linkedin](https://user-images.githubusercontent.com/60709007/158411143-9a8f483a-87e2-4a31-8a1f-71f1e0808270.png) LinkedIn](https://www.linkedin.com/in/arronharden)
+
+[![GitHub](https://user-images.githubusercontent.com/60709007/158411138-05b97588-4a25-4d3d-8d00-a8609d2d3285.png) GitHub](https://github.com/arronharden-els)
+
+[![Slack (Elsevier only)](https://user-images.githubusercontent.com/60709007/158412261-45cf5f05-7c37-4ac7-ac2c-cfb76f74006c.png) Slack](https://app.slack.com/client/TH0BPQHNY/CH1EURP1D/user_profile/WR35EUUPR)
