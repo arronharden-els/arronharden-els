@@ -21,4 +21,4 @@ I'm a software architect working for [Elsevier](https://www.elsevier.com/). We u
 
 [![GitHub](https://user-images.githubusercontent.com/60709007/158411138-05b97588-4a25-4d3d-8d00-a8609d2d3285.png) GitHub](https://github.com/arronharden-els)
 
-[![Slack (Elsevier only)](https://user-images.githubusercontent.com/60709007/158412261-45cf5f05-7c37-4ac7-ac2c-cfb76f74006c.png) Slack](https://app.slack.com/client/TH0BPQHNY/CH1EURP1D/user_profile/WR35EUUPR)
+[![Slack](https://user-images.githubusercontent.com/60709007/158412261-45cf5f05-7c37-4ac7-ac2c-cfb76f74006c.png) Slack (Elsevier internal)](https://app.slack.com/client/TH0BPQHNY/CH1EURP1D/user_profile/WR35EUUPR)
